@@ -1,0 +1,24 @@
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Core\bin\Debug\net6.0\TheLearningHub.Core.deps.json
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Core\bin\Debug\net6.0\TheLearningHub.Core.dll
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Core\bin\Debug\net6.0\TheLearningHub.Core.pdb
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Core\obj\Debug\net6.0\TheLearningHub.Core.csproj.AssemblyReference.cache
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Core\obj\Debug\net6.0\TheLearningHub.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Core\obj\Debug\net6.0\TheLearningHub.Core.AssemblyInfoInputs.cache
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Core\obj\Debug\net6.0\TheLearningHub.Core.AssemblyInfo.cs
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Core\obj\Debug\net6.0\TheLearningHub.Core.csproj.CoreCompileInputs.cache
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Core\obj\Debug\net6.0\TheLearningHub.Core.dll
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Core\obj\Debug\net6.0\refint\TheLearningHub.Core.dll
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Core\obj\Debug\net6.0\TheLearningHub.Core.pdb
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Core\obj\Debug\net6.0\ref\TheLearningHub.Core.dll
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Core\bin\Debug\net6.0\TheLearningHub.Core.deps.json
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Core\bin\Debug\net6.0\TheLearningHub.Core.dll
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Core\bin\Debug\net6.0\TheLearningHub.Core.pdb
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Core\obj\Debug\net6.0\TheLearningHub.Core.csproj.AssemblyReference.cache
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Core\obj\Debug\net6.0\TheLearningHub.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Core\obj\Debug\net6.0\TheLearningHub.Core.AssemblyInfoInputs.cache
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Core\obj\Debug\net6.0\TheLearningHub.Core.AssemblyInfo.cs
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Core\obj\Debug\net6.0\TheLearningHub.Core.csproj.CoreCompileInputs.cache
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Core\obj\Debug\net6.0\TheLearningHub.Core.dll
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Core\obj\Debug\net6.0\refint\TheLearningHub.Core.dll
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Core\obj\Debug\net6.0\TheLearningHub.Core.pdb
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Core\obj\Debug\net6.0\ref\TheLearningHub.Core.dll

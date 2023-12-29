@@ -1,0 +1,160 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\b.alhassoun.ext\\Documents\\Final Demo API And Angular\\TheLearningHub.API - Test\\TheLearningHub.API\\TheLearningHub.Infra\\TheLearningHub.Infra.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\b.alhassoun.ext\\Documents\\Final Demo API And Angular\\TheLearningHub.API - Test\\TheLearningHub.API\\TheLearningHub.Core\\TheLearningHub.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\b.alhassoun.ext\\Documents\\Final Demo API And Angular\\TheLearningHub.API - Test\\TheLearningHub.API\\TheLearningHub.Core\\TheLearningHub.Core.csproj",
+        "projectName": "TheLearningHub.Core",
+        "projectPath": "C:\\Users\\b.alhassoun.ext\\Documents\\Final Demo API And Angular\\TheLearningHub.API - Test\\TheLearningHub.API\\TheLearningHub.Core\\TheLearningHub.Core.csproj",
+        "packagesPath": "C:\\Users\\b.alhassoun.ext\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\b.alhassoun.ext\\Documents\\Final Demo API And Angular\\TheLearningHub.API - Test\\TheLearningHub.API\\TheLearningHub.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\b.alhassoun.ext\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Oracle.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.21.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\b.alhassoun.ext\\Documents\\Final Demo API And Angular\\TheLearningHub.API - Test\\TheLearningHub.API\\TheLearningHub.Infra\\TheLearningHub.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\b.alhassoun.ext\\Documents\\Final Demo API And Angular\\TheLearningHub.API - Test\\TheLearningHub.API\\TheLearningHub.Infra\\TheLearningHub.Infra.csproj",
+        "projectName": "TheLearningHub.Infra",
+        "projectPath": "C:\\Users\\b.alhassoun.ext\\Documents\\Final Demo API And Angular\\TheLearningHub.API - Test\\TheLearningHub.API\\TheLearningHub.Infra\\TheLearningHub.Infra.csproj",
+        "packagesPath": "C:\\Users\\b.alhassoun.ext\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\b.alhassoun.ext\\Documents\\Final Demo API And Angular\\TheLearningHub.API - Test\\TheLearningHub.API\\TheLearningHub.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\b.alhassoun.ext\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\b.alhassoun.ext\\Documents\\Final Demo API And Angular\\TheLearningHub.API - Test\\TheLearningHub.API\\TheLearningHub.Core\\TheLearningHub.Core.csproj": {
+                "projectPath": "C:\\Users\\b.alhassoun.ext\\Documents\\Final Demo API And Angular\\TheLearningHub.API - Test\\TheLearningHub.API\\TheLearningHub.Core\\TheLearningHub.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.21, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.26.0, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[3.21.120, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Infra\bin\Debug\net6.0\TheLearningHub.Infra.deps.json
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Infra\bin\Debug\net6.0\TheLearningHub.Infra.runtimeconfig.json
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Infra\bin\Debug\net6.0\TheLearningHub.Infra.dll
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Infra\bin\Debug\net6.0\TheLearningHub.Infra.pdb
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Infra\bin\Debug\net6.0\TheLearningHub.Core.dll
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Infra\bin\Debug\net6.0\TheLearningHub.Core.pdb
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Infra\obj\Debug\net6.0\TheLearningHub.Infra.csproj.AssemblyReference.cache
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Infra\obj\Debug\net6.0\TheLearningHub.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Infra\obj\Debug\net6.0\TheLearningHub.Infra.AssemblyInfoInputs.cache
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Infra\obj\Debug\net6.0\TheLearningHub.Infra.AssemblyInfo.cs
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Infra\obj\Debug\net6.0\TheLearningHub.Infra.csproj.CoreCompileInputs.cache
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Infra\obj\Debug\net6.0\TheLearningHub.Infra.csproj.CopyComplete
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Infra\obj\Debug\net6.0\TheLearningHub.Infra.dll
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Infra\obj\Debug\net6.0\refint\TheLearningHub.Infra.dll
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Infra\obj\Debug\net6.0\TheLearningHub.Infra.pdb
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Infra\obj\Debug\net6.0\TheLearningHub.Infra.genruntimeconfig.cache
+C:\Users\B.Alhassoun.ext\source\repos\TheLearningHub.API\TheLearningHub.Infra\obj\Debug\net6.0\ref\TheLearningHub.Infra.dll
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Infra\bin\Debug\net6.0\TheLearningHub.Infra.deps.json
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Infra\bin\Debug\net6.0\TheLearningHub.Infra.runtimeconfig.json
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Infra\bin\Debug\net6.0\TheLearningHub.Infra.dll
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Infra\bin\Debug\net6.0\TheLearningHub.Infra.pdb
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Infra\bin\Debug\net6.0\TheLearningHub.Core.dll
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Infra\bin\Debug\net6.0\TheLearningHub.Core.pdb
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Infra\obj\Debug\net6.0\TheLearningHub.Infra.csproj.AssemblyReference.cache
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Infra\obj\Debug\net6.0\TheLearningHub.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Infra\obj\Debug\net6.0\TheLearningHub.Infra.AssemblyInfoInputs.cache
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Infra\obj\Debug\net6.0\TheLearningHub.Infra.AssemblyInfo.cs
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Infra\obj\Debug\net6.0\TheLearningHub.Infra.csproj.CoreCompileInputs.cache
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Infra\obj\Debug\net6.0\TheLearningHub.Infra.csproj.CopyComplete
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Infra\obj\Debug\net6.0\TheLearningHub.Infra.dll
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Infra\obj\Debug\net6.0\refint\TheLearningHub.Infra.dll
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Infra\obj\Debug\net6.0\TheLearningHub.Infra.pdb
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Infra\obj\Debug\net6.0\TheLearningHub.Infra.genruntimeconfig.cache
+C:\Users\b.alhassoun.ext\Documents\TheLearningHub.API - Test\TheLearningHub.API\TheLearningHub.Infra\obj\Debug\net6.0\ref\TheLearningHub.Infra.dll
